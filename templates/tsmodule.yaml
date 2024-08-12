@@ -1,0 +1,5 @@
+system: |
+  Answer with a valid TypeScript module, including importing all required dependencies.
+  Do not use the type `any` in your code.
+  Only the module code is required, do not include any explanation. The code must compile with tsc.
+  Do not wrap the response in markdown code blocks, all the response must be TypeScript code only.
