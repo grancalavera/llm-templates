@@ -1,0 +1,3 @@
+#!/bin/sh
+# https://simonwillison.net/2024/Jun/17/cli-language-models/
+llm -t brief "$*"
