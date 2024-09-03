@@ -14,7 +14,7 @@ This command will use the `llm templates path` directory to install the template
 ./install.sh
 ```
 
-## Shortucts
+## Shortcuts
 
 Ala https://two-wrongs.com/q
 
